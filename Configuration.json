@@ -1,0 +1,6 @@
+{
+  "createUser" : {
+    "Url": "https://reqres.in",
+    "contentType" : "application/json"
+  }
+}
